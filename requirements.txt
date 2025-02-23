@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+inference
+python-multipart
+aiofiles
