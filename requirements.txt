@@ -3,3 +3,4 @@ uvicorn
 inference
 python-multipart
 aiofiles
+gunicorn
